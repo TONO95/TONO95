@@ -1,16 +1,23 @@
-### Hi there 👋
+Hola, I'm TONO95
 
-<!--
-**TONO95/TONO95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have been running and maintaining nodes for 2 and a half years now and am a validator in such projects. My skills are knowledge of several programming languages (C++, Perl, bash, python, Go, Java, C#), community moderation, writing guides and useful articles to help and educate the community
 
-Here are some ideas to get you started:
+Languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Ukrainian (native)
+* Russian
+* English A1
+
+Skills:
+* knowledge of several programming languages (C++, Perl, bash, python, Go, Java, C#)
+* community moderation
+* writing guides
+* useful articles to help and educate the community
+
+Projects in which I kept the node:
+* https://osmosis.zone/
+* https://ironfish.network/
+* https://www.tfsc.io/
+* https://massa.net/
+* https://starknet.io/
+* https://subspace.network/
